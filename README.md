@@ -24,8 +24,7 @@ A simple and user-friendly desktop app to track your daily expenses using Python
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/expense-tracker-gui.git
-cd expense-tracker-gui
+https://github.com/Chirag037/expense-manager-GUI-
 ```
 
 ### 2. Run the app:
