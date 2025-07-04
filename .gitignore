@@ -2,9 +2,12 @@
 __pycache__/
 *.py[cod]
 
+# Virtual environment
 .venv/
 env/
 venv/
 
 # Data files
 data.json
+
+#so .gitignore helps us to ignore those file with our data during git upload.
