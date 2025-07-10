@@ -19,3 +19,4 @@ def save_expense(expense):
     expenses.append(expense)
     with open(DATA_FILE, "w") as file:
         json.dump(expenses, file, indent=4)
+#end of the utils it is mainly used for saving a data .
