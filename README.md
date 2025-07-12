@@ -4,7 +4,7 @@ A simple and user-friendly desktop app to track your daily expenses using Python
 
 ---
 
-## ✨ Features
+## ✨ Features  
 
 - Add expenses with amount, category, and description
 - View all recorded expenses
