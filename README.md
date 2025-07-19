@@ -1,4 +1,4 @@
-# 💸 Personal Expense Tracker (GUI)
+ # 💸 Personal Expense Tracker (GUI)
 
 A simple and user-friendly desktop app to track your daily expenses using Python and Tkinter.
 
