@@ -7,7 +7,7 @@ A simple and user-friendly desktop app to track your daily expenses using Python
 ## ✨ Features  
 
 - Add expenses with amount, category, and description
-- View all recorded expenses
+- View all recorded expenses  
 - Automatically calculates total expenses
 - Data stored in a local JSON file
 - Clean and responsive Tkinter GUI
